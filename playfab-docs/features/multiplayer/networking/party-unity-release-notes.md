@@ -22,9 +22,11 @@ Party Unity SDK plugin becomes generally available (GA) to developers on platfor
 - Windows, iOS, Android:
 https://github.com/playfab/PlayFabPartyUnity
 - Sony PlayStation&reg;:
-  - PS4: https://dev.azure.com/PlayFabPrivate/PS4/_git/PlayFabPartyUnityPS4 (restricted access)
-  - PS5: https://dev.azure.com/PlayFabPrivate/PS5/_git/PlayFabPartyUnityPS5 (restricted access)
+  - PlayStation&#174;4: https://dev.azure.com/PlayFabPrivate/PS4/_git/PlayFabPartyUnityPS4 (restricted access)
+  - PlayStation&#174;5: https://dev.azure.com/PlayFabPrivate/PS5/_git/PlayFabPartyUnityPS5 (restricted access)
 - Nintendo Switch&trade;: https://dev.azure.com/PlayFabPrivate/Switch/_git/PlayFabPartyUnitySwitch (restricted access)
+
+"PlayStation" is a registered trademark or trademark of Sony Interactive Entertainment Inc.
 
 ### New features in GA
 
